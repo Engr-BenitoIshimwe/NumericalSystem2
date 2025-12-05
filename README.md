@@ -1,1 +1,5 @@
-# Numerical System | Code base
+# Numerical System 
+
+Code base
+
+Author: Benito Ishimwe
